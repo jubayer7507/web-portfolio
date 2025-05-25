@@ -13,13 +13,14 @@
     background-color: rgba(255, 248, 243, 1);
 }
 .btn-container{
-     width: 150px;
-     height: 65px;
+     width: 200px;
+     height: fit-content;
      color: white;
      background-color: rgba(253, 110, 10, 1);
      border-radius: 5px;
      border: none;
     font-size: 20px;
+    padding: 20px;
 }
 .btn-container a{
     color: white;
