@@ -280,6 +280,8 @@ nav ul , nav ul .nav-bar{
 }
 nav ul{
     gap: 50px;
+    padding: 0px;
+    margin: 0px;
 }
 nav ul .nav-bar{
     gap: 15px;
